@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Tiny Moves",
+  "base_artist": "Bleachers",
+  "createdAt": "2026-03-06T01:54:19.496611Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tiny Moves",
+      "artist": "Bleachers",
+      "has_synced": false,
+      "path": "select/01_Tiny_Moves_Bleachers.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tiny Moves",
+      "artist": "Bleachers",
+      "has_synced": true,
+      "path": "select/02_Tiny_Moves_Bleachers.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tiny Moves",
+      "artist": "Bleachers",
+      "has_synced": true,
+      "path": "select/03_Tiny_Moves_Bleachers.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tiny Moves",
+      "artist": "Bleachers",
+      "has_synced": false,
+      "path": "select/pl_01_Tiny_Moves_Bleachers.txt"
+    }
+  ]
+}
